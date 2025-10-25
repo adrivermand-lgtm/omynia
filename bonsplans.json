@@ -1,23 +1,42 @@
 {
-  "semaine": "Semaine 43 - 2025",
-  "bonsPlans": [
-    {
-      "titre": "Huile d'olive 1L",
-      "enseigne": "Carrefour",
-      "prix": "6,86 ‚Ç¨",
-      "url": "https://carrefour.fr/huile-olive"
-    },
-    {
-      "titre": "Riz basmati 1kg",
-      "enseigne": "Leclerc",
-      "prix": "1,89 ‚Ç¨",
-      "url": "https://leclerc.fr/riz-basmati"
-    },
-    {
-      "titre": "Lait entier 1L",
-      "enseigne": "Intermarch√©",
-      "prix": "1,12 ‚Ç¨",
-      "url": "https://intermarche.fr/lait"
-    }
-  ]
+	"semaine":"Semaine 43 - 2025",
+	"bonsPlans":
+	[
+		{
+			"titre":"sardines peche ocean  huile olive  135g",
+			"enseigne":"Leclerc",
+			"prix":"8.81 Ä",
+			"url":""
+		},
+		{
+			"titre":"sardines huile olive parmentier",
+			"enseigne":"Carrefour",
+			"prix":"11.67 Ä",
+			"url":""
+		},
+		{
+			"titre":"oeuf frais matines x12",
+			"enseigne":"Leclerc",
+			"prix":"0.15 Ä",
+			"url":""
+		},
+		{
+			"titre":"oeuf frais matines  en cage  gros  x6",
+			"enseigne":"Leclerc",
+			"prix":"0.15 Ä",
+			"url":""
+		},
+		{
+			"titre":"cuisse poulet blanc  gaulois  500g",
+			"enseigne":"Leclerc",
+			"prix":"4.18 Ä",
+			"url":""
+		},
+		{
+			"titre":"hauts cuisse eco+  poulet jaune  1kg",
+			"enseigne":"Leclerc",
+			"prix":"4.49 Ä",
+			"url":""
+		}
+	]
 }
