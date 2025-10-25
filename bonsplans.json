@@ -1,1 +1,27 @@
-{ "semaine":"Semaine ww - 2025", "bonsPlans":[ { "titre":"sardines peche ocean  huile olive  135g", "enseigne":"Carrefour", "prix":"8.81", "url":"" }, { "titre":"sardines huile olive parmentier", "enseigne":"Carrefour", "prix":"11.667", "url":"" }, { "titre":"dessert creme aux oeuf carrefour original", "enseigne":"Carrefour", "prix":"17.5", "url":"" } ] }
+bp1 est un Variant
+bp1.titre = "Huile d'olive 1L"
+bp1.prix = 6.86
+bp1.devise = "€"
+bp1.enseigne = "Carrefour"
+bp1.url = "https://carrefour.fr/huile-olive"
+
+bp2 est un Variant
+bp2.titre = "Riz basmati 1kg"
+bp2.prix = 1.89
+bp2.devise = "€"
+bp2.enseigne = "Leclerc"
+bp2.url = "https://fd8-courses.leclercdrive.fr/magasin-031102-031102-Sigean/fiche-produits-135302-Hauts-de-cuisse-Eco.aspx"
+
+bp3 est un Variant
+bp3.titre = "Lait entier 1L"
+bp3.prix = 1.12
+bp3.devise = "€"
+bp3.enseigne = "Intermarché"
+bp3.url = "https://www.intermarche.com/recherche/sardine"
+
+bp4 est un Variant
+bp4.titre = "Café moulu 250g"
+bp4.prix = 3.49
+bp4.devise = "€"
+bp4.enseigne = "Aldi"
+bp4.url = "https://www.aldi.fr/offres-et-bons-plans.html"
