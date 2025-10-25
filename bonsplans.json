@@ -5,37 +5,37 @@
 		{
 			"titre":"sardines peche ocean  huile olive  135g",
 			"enseigne":"Leclerc",
-			"prix":8.81,
+			"prix":"8.81€",
 			"url":""
 		},
 		{
 			"titre":"sardines huile olive parmentier",
 			"enseigne":"Carrefour",
-			"prix":11.67,
+			"prix":"11.67€",
 			"url":""
 		},
 		{
 			"titre":"oeuf frais matines x12",
 			"enseigne":"Leclerc",
-			"prix":0.15,
+			"prix":"0.15€",
 			"url":""
 		},
 		{
 			"titre":"oeuf frais matines  en cage  gros  x6",
 			"enseigne":"Leclerc",
-			"prix":0.15,
+			"prix":"0.15€",
 			"url":""
 		},
 		{
 			"titre":"cuisse poulet blanc  gaulois  500g",
 			"enseigne":"Leclerc",
-			"prix":4.18,
+			"prix":"4.18€",
 			"url":""
 		},
 		{
 			"titre":"hauts cuisse eco+  poulet jaune  1kg",
 			"enseigne":"Leclerc",
-			"prix":4.49,
+			"prix":"4.49€",
 			"url":""
 		}
 	]
