@@ -5,7 +5,7 @@
 		{
 			"titre":"sardines peche ocean  huile olive  135g",
 			"enseigne":"Leclerc",
-			"prix":"8.81€",
+			"prixkg":"8.81€",
 			"url":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2550375&use=l&cat=p&typeid=i",
 			"famille":"Alimentaire",
 			"rayon":"sardine"
@@ -13,7 +13,7 @@
 		{
 			"titre":"sardines huile olive parmentier",
 			"enseigne":"Carrefour",
-			"prix":"11.67€",
+			"prixkg":"11.67€",
 			"url":"https://www.carrefour.fr/p/p/sardines-huile-d-olive-parmentier-3019081238728",
 			"famille":"Alimentaire",
 			"rayon":"sardine"
@@ -21,7 +21,7 @@
 		{
 			"titre":"oeuf frais matines x12",
 			"enseigne":"Leclerc",
-			"prix":"0.15€",
+			"prixkg":"0.15€",
 			"url":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796231&use=l&cat=p&typeid=i",
 			"famille":"Alimentaire",
 			"rayon":"oeufs"
@@ -29,7 +29,7 @@
 		{
 			"titre":"oeuf frais matines  en cage  gros  x6",
 			"enseigne":"Leclerc",
-			"prix":"0.15€",
+			"prixkg":"0.15€",
 			"url":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796246&use=l&cat=p&typeid=i",
 			"famille":"Alimentaire",
 			"rayon":"oeufs"
@@ -37,7 +37,7 @@
 		{
 			"titre":"cuisse poulet blanc  gaulois  500g",
 			"enseigne":"Leclerc",
-			"prix":"4.18€",
+			"prixkg":"4.18€",
 			"url":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2732752&use=l&cat=p&typeid=i",
 			"famille":"Alimentaire",
 			"rayon":"poulet"
@@ -45,7 +45,7 @@
 		{
 			"titre":"hauts cuisse eco+  poulet jaune  1kg",
 			"enseigne":"Leclerc",
-			"prix":"4.49€",
+			"prixkg":"4.49€",
 			"url":"https://fd8-photos.leclercdrive.fr/image.ashx?id=1974518&use=l&cat=p&typeid=i",
 			"famille":"Alimentaire",
 			"rayon":"poulet"
