@@ -14,7 +14,7 @@
 			"titre":"sardines a huile olive vierge extra carrefour classic",
 			"enseigne":"Carrefour",
 			"prixkg":"9.51€",
-			"urlphoto":"https://media.carrefour.fr/medias/2606fad77e67453dbd4f3857f05fc633/p_200x200/03038350343000_H1N1_s01.png",
+			"urlphoto":"/images/badges/flag-nutriscore-a.svg",
 			"famille":"alimentaire",
 			"rayon":"sardine"
 		},
@@ -244,6 +244,7 @@
 		}
 	]
 }
+
 
 
 
