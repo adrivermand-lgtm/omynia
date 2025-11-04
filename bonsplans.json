@@ -8,6 +8,7 @@
 			"prixkg":"4.48€",
 			"urlphoto":"https://www.carrefour.fr/p/p/sardine-a-l-huile-d-olive-135g-phare-d-eckmuhl-3263670011456?s=2081",
 			"Prix":4.48,
+			"poids":"1",
 			"famille":"Alimentaire",
 			"rayon":"sardine"
 		},
@@ -17,6 +18,7 @@
 			"prixkg":"4.49€",
 			"urlphoto":"https://www.carrefour.fr/p/p/filets-de-sardine-a-l-huile-d-olive-100g-phare-d-eckmuhl-3263670015157?s=2081",
 			"Prix":4.49,
+			"poids":"1",
 			"famille":"Alimentaire",
 			"rayon":"sardine"
 		},
@@ -26,6 +28,7 @@
 			"prixkg":"0.15€",
 			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796246&use=l&cat=p&typeid=i",
 			"Prix":0.92,
+			"poids":150,
 			"famille":"Alimentaire",
 			"rayon":"oeufs"
 		},
@@ -35,6 +38,7 @@
 			"prixkg":"0.15€",
 			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796231&use=l&cat=p&typeid=i",
 			"Prix":1.79,
+			"poids":2.6,
 			"famille":"Alimentaire",
 			"rayon":"oeufs"
 		},
@@ -44,6 +48,7 @@
 			"prixkg":"4.18€",
 			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2732752&use=l&cat=p&typeid=i",
 			"Prix":2.09,
+			"poids":1.25,
 			"famille":"Alimentaire",
 			"rayon":"poulet"
 		},
@@ -53,6 +58,7 @@
 			"prixkg":"4.49€",
 			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=1974518&use=l&cat=p&typeid=i",
 			"Prix":4.49,
+			"poids":1.9,
 			"famille":"Alimentaire",
 			"rayon":"poulet"
 		}
