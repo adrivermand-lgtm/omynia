@@ -1,262 +1,60 @@
 {
-	"semaine":"Semaine 43 - 2025",
+	"semaine":"Semaine 45 - 2025",
 	"bonsPlans":
 	[
 		{
-			"titre":"sardines peche ocean  huile olive  135g",
-			"enseigne":"Leclerc",
-			"prixkg":"8.81€",
-			"urlphoto":"https://www.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dwdc27890c/3256220856980_A1N1_5258235_S13.png",
-			"famille":"alimentaire",
-			"rayon":"sardine"
-		},
-		{
-			"titre":"sardines a huile extra classic",
+			"titre":"sardine a huile olive 135g  phare eckmuhl phare eckmuhl",
 			"enseigne":"Carrefour",
-			"prixkg":"9.51€",
-			"urlphoto":"",
-			"famille":"alimentaire",
+			"prixkg":"4.48�",
+			"urlphoto":"https://www.carrefour.fr/p/p/sardine-a-l-huile-d-olive-135g-phare-d-eckmuhl-3263670011456?s=2081",
+			"Prix":4.48,
+			"famille":"Alimentaire",
 			"rayon":"sardine"
 		},
 		{
-			"titre":"bananes panier primeur x5",
-			"enseigne":"Leclerc",
-			"prixkg":"0.34€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2302456&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"fruits"
+			"titre":"filets sardine a huile olive 100g  phare eckmuhl phare eckmuhl",
+			"enseigne":"Carrefour",
+			"prixkg":"4.49�",
+			"urlphoto":"https://www.carrefour.fr/p/p/filets-de-sardine-a-l-huile-d-olive-100g-phare-d-eckmuhl-3263670015157?s=2081",
+			"Prix":4.49,
+			"famille":"Alimentaire",
+			"rayon":"sardine"
 		},
 		{
-			"titre":"banane bio max havelaar  bio village x5",
+			"titre":"oeuf frais matines  en cage  gros  x6",
 			"enseigne":"Leclerc",
-			"prixkg":"0.4€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2323988&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"fruits"
-		},
-		{
-			"titre":"salade : sucrine 3p",
-			"enseigne":"Leclerc",
-			"prixkg":"0.32€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=1632539&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"legumes"
-		},
-		{
-			"titre":"sucrine eco+ x2",
-			"enseigne":"Leclerc",
-			"prixkg":"0.45€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2477535&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"legumes"
-		},
-		{
-			"titre":"oeufs frais matines x12",
-			"enseigne":"Leclerc",
-			"prixkg":"0.15€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796231&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"oeufs"
-		},
-		{
-			"titre":"oeufs frais matines  en cage  gros  x6",
-			"enseigne":"Leclerc",
-			"prixkg":"0.15€",
+			"prixkg":"0.15�",
 			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796246&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
+			"Prix":0.92,
+			"famille":"Alimentaire",
 			"rayon":"oeufs"
 		},
 		{
-			"titre":"yaourt aromatise sucre eco+  pack 12x125g",
+			"titre":"oeuf frais matines x12",
 			"enseigne":"Leclerc",
-			"prixkg":"1.24€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2759774&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"yaourt aromatis\u00e9"
+			"prixkg":"0.15�",
+			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2796231&use=l&cat=p&typeid=i",
+			"Prix":1.79,
+			"famille":"Alimentaire",
+			"rayon":"oeufs"
 		},
 		{
-			"titre":"yaourt aux fruits bifidus  activia  16x125g",
+			"titre":"cuisse poulet blanc  gaulois  500g",
 			"enseigne":"Leclerc",
-			"prixkg":"2.02€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2741850&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"yaourt aromatis\u00e9"
-		},
-		{
-			"titre":"tablette chocolat noir orange lindt excellence",
-			"enseigne":"Carrefour",
-			"prixkg":"1.09€",
-			"urlphoto":"https://www.carrefour.fr/p/p/tablette-de-chocolat-noir-orange-lindt-excellence-3046920029575",
-			"famille":"alimentaire",
-			"rayon":"chocolat noir"
-		},
-		{
-			"titre":"confiserie chocolat noir 70% lindt excellence",
-			"enseigne":"Carrefour",
-			"prixkg":"1.09€",
-			"urlphoto":"https://www.carrefour.fr/p/p/confiserie-de-chocolat-noir-70-lindt-excellence-3046920028585",
-			"famille":"alimentaire",
-			"rayon":"chocolat noir"
-		},
-		{
-			"titre":"pates pipe rigate carrefour",
-			"enseigne":"Carrefour",
-			"prixkg":"1.16€",
-			"urlphoto":"https://media.carrefour.fr/medias/72d68a9ae2f946728f82e3499e335665/p_200x200/3560070554027_0.jpg",
-			"famille":"alimentaire",
-			"rayon":"pates"
-		},
-		{
-			"titre":"pates penne regate turini 500g",
-			"enseigne":"Leclerc",
-			"prixkg":"1.2€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2980773&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"pates"
-		},
-		{
-			"titre":"riz long blanchi eco+ 1kg",
-			"enseigne":"Leclerc",
-			"prixkg":"1.22€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2076622&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"riz"
-		},
-		{
-			"titre":"riz long blanc simpl",
-			"enseigne":"Carrefour",
-			"prixkg":"1.25€",
-			"urlphoto":"https://www.carrefour.fr/p/p/riz-long-blanc-simpl-3560070924011?t=2150",
-			"famille":"alimentaire",
-			"rayon":"riz"
-		},
-		{
-			"titre":"vin rouge i g p pays oc cabernet sauvignon roche mazet",
-			"enseigne":"Carrefour",
-			"prixkg":"1.51€",
-			"urlphoto":"https://www.carrefour.fr/p/p/vin-rouge-i-g-p-pays-d-oc-cabernet-sauvignon-roche-mazet-3175520019522?t=27105",
-			"famille":"alimentaire",
-			"rayon":"vin rouge"
-		},
-		{
-			"titre":"vin rouge france cabernet sauvignon francette",
-			"enseigne":"Carrefour",
-			"prixkg":"2.45€",
-			"urlphoto":"https://www.carrefour.fr/p/p/vin-rouge-de-france-cabernet-sauvignon-la-francette-3560070514984?t=27105",
-			"famille":"alimentaire",
-			"rayon":"vin rouge"
-		},
-		{
-			"titre":"cafe grains meo  espresso  1kg",
-			"enseigne":"Leclerc",
-			"prixkg":"14.92€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2593977&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"cafe grains"
-		},
-		{
-			"titre":"cafe en grain plantation  ethiopie  500g",
-			"enseigne":"Leclerc",
-			"prixkg":"15.98€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2824310&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"cafe grains"
-		},
-		{
-			"titre":"filet poulet carrefour",
-			"enseigne":"Carrefour",
-			"prixkg":"9.99€",
-			"urlphoto":"https://www.carrefour.fr/p/p/filets-de-poulet-carrefour-3560070343607?t=28439",
-			"famille":"alimentaire",
+			"prixkg":"4.18�",
+			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2732752&use=l&cat=p&typeid=i",
+			"Prix":2.09,
+			"famille":"Alimentaire",
 			"rayon":"poulet"
 		},
 		{
-			"titre":"filet poulet carrefour",
-			"enseigne":"Carrefour",
-			"prixkg":"9.99€",
-			"urlphoto":"https://www.carrefour.fr/p/p/filets-de-poulet-carrefour-3560071328122?t=28439",
-			"famille":"alimentaire",
-			"rayon":"poulet"
-		},
-		{
-			"titre":"huile olive melange tournesol/olive tramier",
-			"enseigne":"Carrefour",
-			"prixkg":"5.99€",
-			"urlphoto":"https://www.carrefour.fr/p/p/huile-d-olive-melange-tournesol-olive-tramier-8410179003498",
-			"famille":"alimentaire",
-			"rayon":"condiment"
-		},
-		{
-			"titre":"huile olive simpl",
-			"enseigne":"Carrefour",
-			"prixkg":"7.99€",
-			"urlphoto":"https://www.carrefour.fr/p/p/huile-d-olive-simpl-3560070941346",
-			"famille":"alimentaire",
-			"rayon":"condiment"
-		},
-		{
-			"titre":"creme contour yeux lift+ boost eclat peaux seches vitamin like formula diadermine",
-			"enseigne":"Carrefour",
-			"prixkg":"12.29€",
-			"urlphoto":"https://www.carrefour.fr/p/p/creme-contour-des-yeux-lift-boost-eclat-peaux-seches-vitamin-d-like-formula-diadermine-8720039304963?t=2458",
-			"famille":"alimentaire",
-			"rayon":"diadermine"
-		},
-		{
-			"titre":"serum anti rides visage peau mature et seche acide hyaluronique extrait figue barbarie peptides biom",
-			"enseigne":"Carrefour",
-			"prixkg":"15.49€",
-			"urlphoto":"https://www.carrefour.fr/p/p/serum-anti-rides-visage-peau-mature-et-seche-acide-hyaluronique-extrait-de-figue-de-barbarie-peptide-3178041359474?t=2458",
-			"famille":"alimentaire",
-			"rayon":"diadermine"
-		},
-		{
-			"titre":"papier toilette humide fess net  monoi x50  2+1 offert",
+			"titre":"hauts cuisse eco+  poulet jaune  1kg",
 			"enseigne":"Leclerc",
-			"prixkg":"0.03€",
-			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=2953953&use=l&cat=p&typeid=i",
-			"famille":"alimentaire",
-			"rayon":"papiers toilette"
-		},
-		{
-			"titre":"papier toilette humide vert aloe 100% fibres vegetales moelleux fess net",
-			"enseigne":"Carrefour",
-			"prixkg":"0.04€",
-			"urlphoto":"https://www.carrefour.fr/p/p/papier-toilette-humide-vert-aloe-100-fibres-vegetales-moelleux-fess-net-4008455308210",
-			"famille":"alimentaire",
-			"rayon":"papiers toilette"
-		},
-		{
-			"titre":"filet dinde",
-			"enseigne":"Lidl",
-			"prixkg":"8.42€",
-			"urlphoto":"https://imgproxy-retcat.assets.schwarz/1Ggvl5OCxiTsefr3_V2nSrMS4sI6MlRWHxzB2F31Ntg/sm:1/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvZnIvMS8yQUY4NEFEQzlGMzEyNkFBRkNDRDFDMTh/CNjExNzZERUU3ODdENTY3NDUwOTJEODNFQkFDMzI2Qzg2QjI1RkYyLmpwZw.jpg",
-			"famille":"alimentaire",
-			"rayon":"dinde"
-		},
-		{
-			"titre":"roti filet dinde carrefour classic",
-			"enseigne":"Carrefour",
-			"prixkg":"11.59€",
-			"urlphoto":"https://www.carrefour.fr/p/p/roti-de-filet-de-dinde-carrefour-classic-3245411823139",
-			"famille":"alimentaire",
-			"rayon":"dinde"
+			"prixkg":"4.49�",
+			"urlphoto":"https://fd8-photos.leclercdrive.fr/image.ashx?id=1974518&use=l&cat=p&typeid=i",
+			"Prix":4.49,
+			"famille":"Alimentaire",
+			"rayon":"poulet"
 		}
 	]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
